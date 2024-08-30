@@ -1,10 +1,10 @@
-### Bonjour, moi c'est Simin 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bienvenue;Moi+c'est+Simin+👋)](https://git.io/typing-svg)
 
 👩🏻‍💻 Développeuse front-end <br/>
 🎓 Certification front-end - Développeuse web et web mobile <br/>
 🐣 Développeuse junior <br/>
 🧠 En cours d'apprentissage : PHP, DOCKER <br/>
+🌎 Also available in english
 
 > Créative et curieuse, le développement web est un
 domaine qui me permet de donner libre cours à
